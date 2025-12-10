@@ -1,0 +1,27 @@
+.y{
+    background-color:red;
+    color:aliceblue;
+    border: none;
+    height: 30px;
+    width:105px;
+    margin-right:8px;
+}
+.x{
+    background-color: white;
+    color:rgb(42, 125, 219);
+    border-radius: 2px;
+    border-color: rgb(42, 125, 219);
+    border-style:solid;
+    height:30px;
+    width: 60px;
+}
+.z{
+    background-color: rgb(20, 160, 220);
+    color:aliceblue;
+    border-style:solid;
+    height:30px;
+    border-radius: 15px;
+    border-color: rgb(20, 160, 220);
+    width:80px;
+    font-weight:bold;
+}
