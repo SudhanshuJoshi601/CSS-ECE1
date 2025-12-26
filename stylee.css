@@ -1,0 +1,28 @@
+
+.container{
+    display:grid;
+    grid-template-columns: 200px 1fr;
+    margin-top: 0px;
+    margin-bottom:  0px;
+}
+.title{font-family: arial;
+    text-align: center;
+    background-color: black;
+    color:aliceblue;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    grid-column: span 2;
+}
+.navbar{background: grey;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    grid-column: span 2;
+    text-align:end;
+}
+.content{
+    
+}
+.Form{
+    grid-column:span 2;
+    justify-content: center;
+}
